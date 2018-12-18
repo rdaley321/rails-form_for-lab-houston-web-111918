@@ -59,7 +59,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:3)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:3)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -73,7 +77,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:4)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:4)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -87,7 +95,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:3)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:3)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -101,7 +113,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:4)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:4)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -115,7 +131,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:3)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:3)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -129,7 +149,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:4)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:4)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -143,7 +167,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:3)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:3)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -157,7 +185,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:4)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:4)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -171,7 +203,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:3)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:3)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -185,7 +221,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:4)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/school_classes.rb:4)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -199,7 +239,11 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:3)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:3)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
 
@@ -213,6 +257,7 @@ rubocop \
   --only FactoryBot/AttributeDefinedStatically \
   --auto-correct
 
+<<<<<<< HEAD
 . (called from block (2 levels) in <top (required)> at /Users/ryandaley/Development/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:4)
 DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
 attributes instead by wrapping the attribute value in a block:
@@ -1331,3 +1376,6 @@ ActiveRecord::RecordNotFound (Couldn't find Student with 'id'=create):
   Rendered /Users/ryandaley/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
   Rendered /Users/ryandaley/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
   Rendered /Users/ryandaley/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (108.8ms)
+=======
+. (called from block (2 levels) in <top (required)> at /home/passionate-abstraction-6782/rails-form_for-lab-houston-web-111918/spec/factories/students.rb:4)
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12

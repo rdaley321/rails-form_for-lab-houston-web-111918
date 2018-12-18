@@ -1,6 +1,11 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   resources :students
   resources :school_classes
+=======
+  resources :school_classes
+  resources :student
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

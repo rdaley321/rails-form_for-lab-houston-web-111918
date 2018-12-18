@@ -1,4 +1,5 @@
 class SchoolClassesController < ApplicationController
+<<<<<<< HEAD
   def show
     @school_class = SchoolClass.find(params[:id])
   end
@@ -22,4 +23,6 @@ class SchoolClassesController < ApplicationController
   def school_class_params
     params.require(:school_class).permit(:title,:room_number)
   end
+=======
+>>>>>>> ff04a7d81d20e4d254c4b004a3f88d9976ae1a12
 end
